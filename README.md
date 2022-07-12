@@ -25,7 +25,7 @@ THEN I am again presented with current and future conditions for that city
 
 ## Pictures of the Weather Dashboard
 
-![screenshot1](https://github.com/LymphCode/Work-Day-Scheduler/blob/main/assets/images/Screenshot%202022-07-06%20215555.png)
+![screenshot1](assets\images\Screenshot 2022-07-11 192227.png)
 
 ## Link to deployed application
 

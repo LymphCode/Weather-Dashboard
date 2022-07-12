@@ -180,17 +180,3 @@ function initPage() {
 }
 
 initPage();
-
-// "http://api.openweathermap.org/data/2.5/weather?q=" +
-//     city +
-//     "&appid=" +
-//     APIKey +
-//     "&units=imperial";
-
-// "http://api.openweathermap.org/data/2.5/onecall?lat=" +
-//       lat +
-//       "&lon=" +
-//       lon +
-//       "&appid=" + APIKey + "=imperial&exclude=hourly,minutely";
-
-// fetch(queryURL2).then(response => response.json()).then(data => {})
