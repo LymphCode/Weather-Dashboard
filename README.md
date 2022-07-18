@@ -25,7 +25,8 @@ THEN I am again presented with current and future conditions for that city
 
 ## Pictures of the Weather Dashboard
 
-![screenshot1](https://github.com/LymphCode/Weather-Dashboard/blob/main/assets/images/Screenshot%202022-07-11%20192227.png)
+![screenshot1](https://github.com/LymphCode/Weather-Dashboard/blob/main/assets/images/new-screenshot-01.png)
+![screenshot2](https://github.com/LymphCode/Weather-Dashboard/blob/main/assets/images/new-screenshot-02.png)
 
 ## Link to deployed application
 
