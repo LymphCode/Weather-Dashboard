@@ -33,10 +33,10 @@ function getHistory(data) {
   let historyEl = document.getElementById('history');
   historyEl.innerHTML = '';
   console.log(historyEl);
-  for (let i = 0; i < 5; i++) {
+  for (let i = 0; i < 5; i++) { // this div will call the executeWeatherGetCall function when clicked
     $("#history").append(`
     <section class="card">
-      <h4 class="cityBtn">${data[i]}</h4>
+    <h4 type="button" onclick='executeWeatherGetCall("${data[i]}")' class="cityBtn">${data[i]}</h4>
     </section>`);
     console.log(`attempted to append cityBtn ${[i]}`);
   }
