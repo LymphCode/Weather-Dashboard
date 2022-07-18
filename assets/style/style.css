@@ -1,5 +1,5 @@
 /* this overpowers our bootstrap and gives our header a multi colored background color of blue(left) to a purple(right) */
 .gradient {
-    background-image: linear-gradient(to right, rgb(52, 94, 183) , rgb(62, 0, 168));
+    background-image: linear-gradient(to right, rgb(52, 94, 183) , rgb(36, 1, 96));
     color: white;
 }
